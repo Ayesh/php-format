@@ -1,0 +1,11 @@
+{
+    "name": "format/base",
+    "description": "Base",
+    "authors": [
+        {
+            "name": "Ayesh Karunaratne",
+            "email": "ayeshlakmal@gmail.com"
+        }
+    ],
+    "require": {}
+}
